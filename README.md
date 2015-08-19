@@ -5,3 +5,5 @@ konkuk univ. ime shp github test
 githubtest4im repository는 [여기를 클릭하면 이동할 수 있습니다](https://github.com/githubforim/githubtest4im.git)
 ### fork테스트
 fork테스트 15.08.19 2128 작성 
+#### 연습
+수정해보기 15.08.19 9시 51분 작성
